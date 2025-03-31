@@ -1,0 +1,29 @@
+Grocery Store Information File
+
+Store Name: FreshMart Grocery
+Location: 123 Main Street, Springfield
+Contact Number: (555) 123-4567
+Website: www.freshmartgrocery.com
+Operating Hours: Monday - Friday: 8:00 AM - 9:00 PM, Saturday: 8:00 AM - 10:00 PM, Sunday: 9:00 AM - 8:00 PM
+
+Products: Fresh Produce (Fruits, Vegetables, Organic Items), Dairy & Eggs (Milk, Cheese, Yogurt, Butter, Eggs), Meat & Seafood (Chicken, Beef, Pork, Fish, Shrimp), Bakery (Bread, Pastries, Cakes, Bagels), Frozen Foods (Ice Cream, Frozen Meals, Vegetables, Snacks), Pantry Staples (Rice, Pasta, Canned Goods, Spices, Condiments), Beverages (Juices, Sodas, Coffee, Tea, Alcohol), Snacks (Chips, Chocolates, Nuts, Granola Bars), Household Essentials (Cleaning Supplies, Paper Towels, Toiletries), Health & Beauty (Personal Care, Vitamins, Skincare)
+
+Loyalty Program: Earn 1 point per $1 spent, redeemable for discounts.
+Weekly Deals: Special discounts on selected items, updated every Monday.
+Bulk Purchase Discounts: Buy 10+ units of certain items for reduced pricing.
+Senior Citizen Discount: 10% off on Wednesdays for customers 60+.
+Student Discount: 5% off with a valid student ID.
+
+Return Policy: Unopened items can be returned within 14 days with a receipt.
+Refund Policy: Refunds issued for defective or expired items.
+Payment Methods: Cash, Credit/Debit Cards, Mobile Payments, EBT accepted.
+Delivery & Pickup: Home Delivery available for orders $50+, Free in-store pickup for online orders, Delivery time: 2-4 hours
+
+FAQs:
+- Online Ordering: Yes, at www.freshmartgrocery.com.
+- Special Orders: Yes, available at customer service.
+- Catering Services: Yes, we provide party trays and bulk food items.
+- Gluten-Free & Organic: Yes, we have dedicated sections.
+- Curbside Pickup: Yes, available for online orders.
+
+This file is a reference for chatbot-based grocery store information retrieval.
