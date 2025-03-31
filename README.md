@@ -1,4 +1,4 @@
-## GROCERSIT ~ Grocery store AI chatbot
+## GROCERIST ~ Grocery store AI chatbot
 
 - Customer facing chatbot assistant to answer queries regarding grocery store.
 - Query various deals as well as prices of various individual store items.
