@@ -1,4 +1,4 @@
-### GROCERSIT ~ Grocery store AI chatbot
+## GROCERSIT ~ Grocery store AI chatbot
 
 - Customer facing chatbot assistant to answer queries regarding grocery store.
 - Query various deals as well as prices of various individual store items.
@@ -6,11 +6,11 @@
 - Upstash Redis to store multiple conversation history.
 - Made in FlowiseAI
 
-#### Grocersist in action
+### Grocersist in action
 
 https://github.com/user-attachments/assets/019667d5-45fc-4339-881c-a9856d58f452
 
-#### How to run
+### How to run
 
 0. You must have npm installed.
 1. Run ~
